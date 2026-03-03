@@ -1,0 +1,3 @@
+/home/josedancruz/Labs/icom5007-lab-practice/lab-2/L2/build/CMakeFiles/inventory.dir
+/home/josedancruz/Labs/icom5007-lab-practice/lab-2/L2/build/CMakeFiles/edit_cache.dir
+/home/josedancruz/Labs/icom5007-lab-practice/lab-2/L2/build/CMakeFiles/rebuild_cache.dir

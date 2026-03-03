@@ -1,7 +1,0 @@
-../include/functions.h:1:  #ifndef header guard has wrong style, please use: INCLUDE_FUNCTIONS_H_  [build/header_guard] [5]
-../include/functions.h:35:  #endif line should be "#endif  // INCLUDE_FUNCTIONS_H_"  [build/header_guard] [5]
-../src/functions.c:13:  Almost always, snprintf is better than strcpy  [runtime/printf] [4]
-Done processing ../include/functions.h
-Done processing ../src/functions.c
-Done processing ../src/main.c
-Total errors found: 3

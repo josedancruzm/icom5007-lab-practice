@@ -1,5 +1,5 @@
-#ifndef INVENTORY_H
-#define INVENTORY_H
+#ifndef INCLUDE_FUNCTIONS_H_
+#define INCLUDE_FUNCTIONS_H_
 
 typedef struct {
   char name[50];
@@ -32,4 +32,4 @@ void AddItem(Item* inv, int index, char* name, float price, int quantity);
  */
 float CalculateTotalValue(Item* inv, int size);
 
-#endif
+#endif  // INCLUDE_FUNCTIONS_H_
