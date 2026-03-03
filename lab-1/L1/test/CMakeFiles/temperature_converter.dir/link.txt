@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/temperature_converter.dir/src/main.c.o CMakeFiles/temperature_converter.dir/src/functions.c.o -o temperature_converter  -lm 
